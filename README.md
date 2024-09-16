@@ -37,15 +37,15 @@ Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확�
 
 ### 데이터 다운로드
 
-1. `imaterialist-fashion-2020-fgvc7` 폴더를 생성하고 다음 링크에서 데이터를 다운로드하여 저장하세요:
-   [iMaterialist Fashion 2020 at FGVC7](https://www.kaggle.com/competitions/imaterialist-fashion-2020-fgvc7/data)
+1. `imaterialist-fashion-2020-fgvc7` 폴더를 생성하고 다음 링크에서 데이터를 다운로드하여 저장하세요:  
+   [iMaterialist Fashion 2020 at FGVC7](https://www.kaggle.com/competitions/imaterialist-fashion-2020-fgvc7/data)  
 
-2. `splade` 폴더를 생성하고 다음 GitHub 저장소에서 SPLADE 라이브러리를 다운로드하세요:
-   [SPLADE GitHub Repository](https://github.com/naver/splade)
+2. `splade` 폴더를 생성하고 다음 GitHub 저장소에서 SPLADE 라이브러리를 다운로드하세요:  
+   [SPLADE GitHub Repository](https://github.com/naver/splade)  
 
 ### 실행
 
-프로젝트를 실행하려면 다음 명령어를 사용하세요:
+프로젝트를 실행하려면 다음 명령어를 사용하세요:  
 
 ```bash
 streamlit run run.py
