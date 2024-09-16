@@ -50,3 +50,13 @@ Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확�
 ```bash
 streamlit run run.py
 ```
+### 실행 화면
+1. Text 상품 검색 (Query : "Vans shoes")  
+![image](https://github.com/user-attachments/assets/8e332449-9f93-46c4-8e59-e8373d511f22)  
+2. Image 상품 검색 (Query : 단일 이미지.jpg)  
+![image](https://github.com/user-attachments/assets/e0c90470-f30c-4c5f-b917-02928171ce15)  
+3. Multi modal 상품 검색 (Query : 이 따뜻한 느낌으로 어울릴 만한 상품을 추천해줘, 코트 이미지.jpg )  
+![image](https://github.com/user-attachments/assets/90f55eb9-db78-4e36-b9c4-b5b666aa649b)
+4. Stable Diffusion 패션 생성 (Query : 이 드레스를 빨간색으로 바꿔줘)  
+![image](https://github.com/user-attachments/assets/ca083cfc-89f9-4c84-a2ba-09d759727d68)  
+
