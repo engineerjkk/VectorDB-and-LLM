@@ -74,6 +74,7 @@ streamlit run run.py
 ----
 
 ### 4. 생성형AI 기반 패션 생성 (Query : 이 티셔츠를 더 화려하고 빨간색 계열의 옷으로 바꿔줘.)  
+<img src="https://github.com/user-attachments/assets/28ede0bc-7f73-4ebc-9760-c2c9ba8009e2" width="1000">
 <img src="https://github.com/user-attachments/assets/86868986-4fc5-4f4a-a17c-f3e7b85079fe" width="1000">
 
 
