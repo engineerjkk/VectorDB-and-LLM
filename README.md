@@ -52,38 +52,26 @@ streamlit run run.py
 ```
 ### 실행 화면
 <img src="https://github.com/user-attachments/assets/44f66584-4bc2-4f0e-aa21-fb0437e568ac" width="1000">
+---
 
 ### 1. Text 상품 검색 (Query : "Vans shoes")
 <img src="https://github.com/user-attachments/assets/92f6af0e-e5c6-4608-a60f-e107b5d479b8" width="1000">
 <img src="https://github.com/user-attachments/assets/510407bf-2599-4e9b-8251-d0ab6462b64a" width="1000">
+---
 
 ### 2. Image 상품 검색 (Query : 단일 이미지.jpg)  
 <img src="https://github.com/user-attachments/assets/fa33fc9a-d7f3-4bef-91b8-3ff8d7ff795e" width="1000">
 <img src="https://github.com/user-attachments/assets/55044585-a428-4bc4-9e8f-a78b66a45ac2" width="1000">
+---
 
 ### 3. Multi modal 상품 검색 (Query : 이 옷보다 더 차가운 느낌으로 추천해줘, 드레스 이미지.jpg )  
 <img src="https://github.com/user-attachments/assets/2e18055a-538c-4630-83a8-7790344814fa" width="1000">
 <img src="https://github.com/user-attachments/assets/95a7a9d5-37e9-4826-93de-8f0739183fbd" width="1000">
+---
 
 ### 4. 생성형AI 기반 패션 생성 (Query : 이 티셔츠를 더 화려하고 빨간색 계열의 옷으로 바꿔줘.)  
 <img src="https://github.com/user-attachments/assets/86868986-4fc5-4f4a-a17c-f3e7b85079fe" width="1000">
 
----
-### 실행 화면
-![image](https://github.com/user-attachments/assets/44f66584-4bc2-4f0e-aa21-fb0437e568ac)  
-### 1. Text 상품 검색 (Query : "Vans shoes")
-![image](https://github.com/user-attachments/assets/92f6af0e-e5c6-4608-a60f-e107b5d479b8)
 
-![Text 상품 검색](https://github.com/user-attachments/assets/510407bf-2599-4e9b-8251-d0ab6462b64a)
-### 2. Image 상품 검색 (Query : 단일 이미지.jpg)  
-![image](https://github.com/user-attachments/assets/fa33fc9a-d7f3-4bef-91b8-3ff8d7ff795e)
-
-![Image 상품 검색](https://github.com/user-attachments/assets/55044585-a428-4bc4-9e8f-a78b66a45ac2)
-### 3. Multi modal 상품 검색 (Query : 이 옷보다 더 차가운 느낌으로 추천해줘, 드레스 이미지.jpg )  
-![image](https://github.com/user-attachments/assets/2e18055a-538c-4630-83a8-7790344814fa)
-
-![Multi modal 상품 검색](https://github.com/user-attachments/assets/95a7a9d5-37e9-4826-93de-8f0739183fbd)
-### 4. 생성형AI 기반 패션 생성 (Query : 이 티셔츠를 더 화려하고 빨간색 계열의 옷으로 바꿔줘.)  
-![Stable Diffusion 패션 생성](https://github.com/user-attachments/assets/86868986-4fc5-4f4a-a17c-f3e7b85079fe)
 
 
