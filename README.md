@@ -46,7 +46,7 @@ Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확�
 ### 실행
 
 프로젝트를 실행하려면 다음 명령어를 사용하세요:  
-
+(PineconeDB 설정 및 추가 Database가 필요하므로, 현재 위 코드만으로는 실행되지 않습니다.) 
 ```bash
 streamlit run run.py
 ```
