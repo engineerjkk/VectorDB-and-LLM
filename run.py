@@ -85,8 +85,8 @@ tab1, tab2 = st.sidebar.tabs(["상품 검색", "패션 생성"])
 with tab1:
     st.header("상품 검색")
     text_input1 = st.text_area("찾고자 하시는 상품을 입력해 주세요.              \n"
-                               "(사진도 함께 첨부하실 경우, 텍스트는 분위기적으로 입력해주세요. \n"
-                               "예) 따뜻한 느낌으로 찾아줘)", 
+                               "(사진도 함께 첨부하실 경우, 텍스트는 스타일적으로 입력해주세요. \n"
+                               "예) Street Style로 찾아줘", 
                                key="search_text", 
                                height=200)
     image_input1 = st.file_uploader("찾고자 하시는 상품 사진을 첨부해 주세요", type=["jpg", "png"], key="search_image")
@@ -107,7 +107,7 @@ with tab1:
                     #    logs1 = add_log(logs1, f"{item}: {log[i]}")
                 else:
                     #logs1 = add_log(logs1, "다시 입력해주세요. 상품명보다는 분위기적으로 입력해주시면 감사하겠습니다. ")
-                    st.warning("**다시 입력해주세요. 상품명보다는 분위기적으로 입력해주시면 감사하겠습니다.**")
+                    st.warning("**다시 입력해주세요. 상품명보다는 스타일로 입력해주시면 감사하겠습니다.**")
             elif text_input1 or image_input1:
                 if text_input1:
                     logs1 = add_log(logs1, f"입력하신 내용 : {text_input1}")
@@ -133,7 +133,7 @@ with tab1:
 # Tab 2: 패션 추천 - StyleFinder
 with tab2:
     st.header("패션 생성")
-    text_input2 = st.text_area("이미지를 업로드하시고 원하시는 패션 분위기를 입력해주세요.", key="recommend_text", height=200)
+    text_input2 = st.text_area("이미지를 업로드하시고 원하시는 패션 스타일을 입력해주세요.", key="recommend_text", height=200)
     image_input2 = st.file_uploader("참고할 수 있는 이미지를 업로드해주세요.", type=["jpg", "png"], key="recommend_image")
     if st.button("패션 생성하기", key="recommend_btn"):
         with st.spinner('이미지 생성 중...'): 
