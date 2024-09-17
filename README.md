@@ -56,9 +56,9 @@ streamlit run run.py
 ![image](https://github.com/user-attachments/assets/8e332449-9f93-46c4-8e59-e8373d511f22)  
 ### 2. Image 상품 검색 (Query : 단일 이미지.jpg)  
 ![image](https://github.com/user-attachments/assets/e0c90470-f30c-4c5f-b917-02928171ce15)  
-### 3. Multi modal 상품 검색 (Query : 이 따뜻한 느낌으로 어울릴 만한 상품을 추천해줘, 코트 이미지.jpg )  
-![image](https://github.com/user-attachments/assets/90f55eb9-db78-4e36-b9c4-b5b666aa649b)
-### 4. Stable Diffusion 패션 생성 (Query : 이 드레스를 빨간색으로 바꿔줘)  
+### 3. Multi modal 상품 검색 (Query : 이 따뜻한 느낌으로 어울릴 만한 상품을 추천해줘, 드레스 이미지.jpg )  
+![Multi modal 상품 검색](https://github.com/user-attachments/assets/95a7a9d5-37e9-4826-93de-8f0739183fbd)
+### 4. Stable Diffusion 패션 생성 (Query : 이 티셔츠를 화려하고 빨간색으로 바꿔줘.)  
 ![Stable Diffusion 패션 생성](https://github.com/user-attachments/assets/86868986-4fc5-4f4a-a17c-f3e7b85079fe)
 
 
