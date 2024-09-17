@@ -51,7 +51,8 @@ Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확�
 streamlit run run.py
 ```
 ### 실행 화면
-<img src="https://github.com/user-attachments/assets/44f66584-4bc2-4f0e-aa21-fb0437e568ac" width="1000">
+<img src="https://github.com/user-attachments/assets/e485f51b-0042-468b-9abf-511c66e77dcb" width="1000">
+
 
 ----
 
